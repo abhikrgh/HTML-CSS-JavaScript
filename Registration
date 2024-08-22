@@ -1,0 +1,69 @@
+<!doctype html>
+
+<html>
+
+<head><title> hello world</title> </head>
+
+ 
+
+<body>
+
+<h1> marksheet </h1>
+
+<table border="1">
+
+<tr>
+
+<th> english </th>
+
+<th> hindi </th>
+
+<th> maths </th>
+
+</tr>
+
+<tr>
+
+<td> 80 </td>
+
+<td> 33 </td>
+
+<td> 40 </td>
+
+</tr>
+
+ 
+
+<tr>
+
+<td> 180 </td>
+
+<td> 303 </td>
+
+<td> 407 </td>
+
+</tr>
+
+ 
+
+<tr>
+
+<td> 880 </td>
+
+<td> 353 </td>
+
+<td> 403 </td>
+
+</tr>
+
+ 
+
+</table>
+
+ </body>
+
+ 
+
+ </html>
+
+ 
