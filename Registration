@@ -1,0 +1,23 @@
+<!doctype html>
+<html> 
+<head>     <title>Registration Form </title>    </head>
+
+<body>
+<h3> Registration Form </h3>
+
+<form>
+First Name:<input type="text"> 
+Last Name:<input type="text"> <br>
+Password: <input type="password"> <br>
+Phone no. : <input type= "int"> <br>
+
+Select gender <input type="radio" name="gender"> Male
+<input type="radio" name="gender">Female
+<br>
+<button type = "submit" value="submit"> SUBMIT </button>
+
+</form>
+
+ </body>
+
+ </html>
